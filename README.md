@@ -1,6 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Khaled Nasr Eldin</h1>
 <hr>
-<h3 align="center">🚀 passionate about frontend developer</h2>
+<h3 align="center">🚀 Passionate and detail-oriented React Frontend Developer with a strong foundation in building dynamic, user-friendly web applications. Seeking an opportunity to leverage my expertise in React.js, JavaScript,TypeScript, and modern frontend technologies to create high-performance, responsive, and visually appealing interfaces. Committed to continuous learning and delivering high-quality code to enhance user experiences and drive business success.</h2>
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
