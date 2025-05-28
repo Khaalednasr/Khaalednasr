@@ -1,4 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Khaled Nasr Eldin</h1>
+<hr>
 <h3 align="center">🚀 passionate about frontend developer</h2>
 
 <hr>
