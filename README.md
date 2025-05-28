@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Nasr Eldin</h1>
 <h3 align="center">🚀passionate about frontend developer</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaalednasr" alt="khaalednasr" /></a> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
